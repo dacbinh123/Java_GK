@@ -1,0 +1,5 @@
+https://github.com/dacbinh123/Java_GK.git
+
+
+Do thư mục code nặng nên em đã xóa thư mục target trong code. Nên nếu có xảy ra trục trặc khi demo code thì thầy có thể truy cập vào link git ở trên.
+Em xin cảm ơn 
