@@ -43,7 +43,7 @@ Là tệp cấu hình của ứng dụng. Nó chứa các thuộc tính được
 
 ```
 ### Clone về máy tính
-git clone https://github.com/dacbinh123/java_springcart.git
+git clone https://github.com/dacbinh123/Java_GK.git
 
 ### Tạo cơ sở dữ liệu 
 Tạo một cơ sở dữ liệu trong MySQL với tên là spring_shoppingcartdb2 để lưu trữ dữ liệu của ứng dụng. Có thể sử dụng MySQL Workbench hoặc XAMPP để tạo cơ sở dữ liệu.
